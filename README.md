@@ -49,4 +49,4 @@ At this point you should see this in the console :
 2022-08-22 17:53:30.671  INFO 6172 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
 ```
 
-Then navigate trough a browser to http://localhost:8080
+Then navigate through a browser to http://localhost:8080
