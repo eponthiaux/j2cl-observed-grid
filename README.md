@@ -1,4 +1,4 @@
-**J2cl WebComponent boilerplate - observed - grid - example **
+#J2cl WebComponent boilerplate - observed - grid - example
 
 How to run this sample ? :
 
